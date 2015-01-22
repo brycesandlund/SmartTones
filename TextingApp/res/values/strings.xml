@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Click one of the buttons below to set a text tone for all contacts whose first name is that many letters long.</string>
+    <string name="app_name">Smart Tones</string>
+
+</resources>
